@@ -15,8 +15,6 @@ It is dynamically typed. It is inspired by lua and a few other languages.
 
 The implementation of it is written in C#. The aim of the project was not speed or efficiency, but to learn.
 
-I have Trello board: https://trello.com/b/7mf0E5qw/plang
-
 It is still rough around the edges and doesn't have much error handling, but it works for the most part.
 
 # Current implemented features #
