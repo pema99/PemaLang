@@ -1,3 +1,10 @@
+# Disclaimer #
+PLang was a toy project and the first language I wrote.
+
+It not very optimized or feature complete.
+
+It is not intended for any serious use, other than maybe inspiration/reference for your own language.
+
 # Note #
 If you are looking for examples there is a directory full of them in Interpreter/Examples.
 
