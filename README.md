@@ -1,4 +1,6 @@
 # Disclaimer #
+This repo is the result of me moving my old language from BitBucket to GitHub.
+
 PLang was a toy project and the first language I wrote.
 
 It not very optimized or feature complete.
